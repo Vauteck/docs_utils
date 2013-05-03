@@ -1,0 +1,755 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Feed aggregator | Quevin LLC</title>
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Quevin LLC aggregator" href="/aggregator/rss" />
+<link rel="shortcut icon" href="http://www.quevin.com/sites/default/files/quevin_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/codefilter/codefilter.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_f74b69267f21ac33a463ab0e3b072adc.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_6c8baaaef60c6a20d441d129849e19d2.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?s" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.quevin.com/sites/default/files/js/js_7381ddf157cbbef30eff6ca3f97b145a.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","block_edit":{"hover_links":1},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"fff","box_color":"000","top_position":"","overlay_opacity":"0.6","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":200,"fade_in_speed":200,"slide_down_speed":200,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":true,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":640,"iframe_height":480,"iframe_border":1,"enable_video":0},"tabs":{"slide":false,"fade":false,"speed":"slow","auto_height":false,"next_text":"next","previous_text":"previous"}});
+//--><!]]>
+</script>
+<meta name="google-site-verification" content="He_hL7fv15Y23a5YuL0R7XaqoWTSHjglByF9rxPHgHE" />
+</head>
+<body id="quevin" class="not-front not-logged-in one-sidebar sidebar-right page-aggregator-articles---being-processed-being-processed-michael-tuck-gestalt-web-design-www-doc-gold-ac-uk-hs201mjl-presentation1-ppt section-aggregator">
+  <div id="page" class="container-12 clear-block">
+
+    <div id="site-header" class="clear-block">
+
+              <div id="branding" class="clear-block">
+
+                      <div id="logo" class="grid-4"><a href="/" title="Home" rel="home"><img src="http://www.quevin.com/sites/default/files/quevin_logo.png" alt="Home" id="logo-image" /></a></div>
+          
+          
+                      <!-- <div id="site-slogan" class="grid-4">Web Design, Web Development, and Drupal Content Management Systems (CMS)</div> -->
+                    
+                      <div id="top-center" class="grid-4"><div id="block-block-2" class="block block-block region-odd odd region-count-1 count-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <h2 class="whats-quevin">
+	We&#39;re passionate about<br />
+	planning,&nbsp;designing, and&nbsp;developing<br />
+	exceptional Drupal based websites.</h2>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div>
+                    
+                      <div id="top-right" class="grid-4"><div id="block-block-1" class="block block-block region-odd even region-count-1 count-2"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="quick_start">
+	<a class="form_start" href="/free_quote" title="Your Quick Estimate"><span>Quick Estimate</span></a><a class="call" href="http://www.ringcentral.com/ringme/ringme.asp?uc=911F5B396DCC813B7735C332D4492FD1142256301810,0,&amp;s=no&amp;v=2" onclick="window.open(this.href, 'RingCentral', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no,width=640,height=480'); return false;" target="_blank">(888) 420-4571</a></div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div>
+                 </div> <!-- /#branding -->
+      
+	  
+      		<div id="site-menu" class="prefix-4 grid-8">
+
+                      <div id="primary">
+              <ul class="links"><li class="menu-740 first"><a href="/" title="Quevin LLC">Home</a></li>
+<li class="menu-1136"><a href="/projects" title="">Projects</a></li>
+<li class="menu-1106"><a href="/about_us">About Us</a></li>
+<li class="menu-1108"><a href="/questions">Questions?</a></li>
+<li class="menu-1110 last"><a href="/contact_us">Contact Us</a></li>
+</ul>            </div> <!-- /#primary -->
+          
+                    		</div><!-- /#site-menu -->
+          
+                	</div><!-- /#site-header -->
+
+       <div id="site-subheader" class="clear-block">
+        
+        
+          <h1 id="page-title" class="grid-8 title">Feed aggregator</h1>
+        
+    </div><!-- /#site-subheader -->
+   
+    <div id="main" class="column grid-8">
+    
+    
+	    
+      <div id="main-content" class="region clear-block">
+        <div id="aggregator">
+  <div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/P9Yvk_oe1oQ/">Craft Photoshop Text Effect Tutorial</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 12:56</span>
+  </div>
+
+  <div class="feed-item-body">
+    I have decided to turn this effect into a Photoshop tutorial. I had to find some typefaces to apply this effect. The first and obvious choice was the popular Baby ...  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/1IuNJjS8baY/">Today Only: Get 4 ThemeFuse WP Themes for Only $59 (75% OFF)</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 12:54</span>
+  </div>
+
+  <div class="feed-item-body">
+    If you are on a hunt for a new WP theme for your business or blog, this is the time to get one! Actually you can get 4 original wp themes for the price of one (only $59). ThemeFuse – our favorite WP themes shop – teamed up with AppSumo to launch this amazing deal where you can choose any 4 standard license (or 3 developer license) themes from their fabulous collection.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/WeKEOvLGxYI/">How to Land a Great Internship in Web Design</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 11:39</span>
+  </div>
+
+  <div class="feed-item-body">
+    How do you go about finding the perfect internship in design? Tips and resources for people looking for internship in web design.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/KFhFIIPvRqY/">Creating your own Kaleidoscope for iPhone</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 11:25</span>
+  </div>
+
+  <div class="feed-item-body">
+    Going to use jQTouch plugin to allow using touchpad in application. User will able to click at ‘about’ button.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/8iKp2tHFyfQ/">Incredible Collection Of Vector Artworks</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 10:54</span>
+  </div>
+
+  <div class="feed-item-body">
+    A collection of vector based digital art pieces. This kind of artwork have a unique flavor and everybody loves it.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://orderedlist.com/blog/articles/flared-borders-with-css/">Outer Border Radius Tabs</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/5" class="feed-item-source">CSS-Tricks</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 10:50</span>
+  </div>
+
+  <div class="feed-item-body">
+    <p>Imagine a real-life tabbed folder. The tabs on those aren't only rounded at the top of the tab, but they also connected to the folder with a rounded edge. Top corners, easy, just border-radius. Bottom corners, not so easy. Steve Smith has a published a neat technique utilizing pseudo elements to do it.</p><p>I tackled this same exact idea that I'm using for some upcoming talks and <a href="http://jsbin.com/super-css-super-challenge/">this is how I did it</a>.</p><p><a href="http://orderedlist.com/blog/articles/flared-borders-with-css/" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="http://css-tricks.com/outer-border-radius-tabs/">Permalink</a></p><br /><a href='http://rss.buysellads.com/click.php?z=1259963&amp;k=3469a2a501a9e18091036aa0c89f9dcb&amp;a=9292&amp;c=2076174662' target='_blank'><img src='http://rss.buysellads.com/img.php?z=1259963&amp;k=3469a2a501a9e18091036aa0c89f9dcb&amp;a=9292&amp;c=2076174662' border='0' alt='' /></a><p><a href='http://buysellads.com/buy/sitedetails/pubkey/3469a2a501a9e18091036aa0c89f9dcb/zone/1259963' target='_blank'>Advertise here with BSA</a></p>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/3">How-to&#039;s &amp; Tutorials</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/IhN3tC5fwpk/">Exceptional Digital Art Featuring Nagare-Boshi | Fantasy Inspiration</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 09:58</span>
+  </div>
+
+  <div class="feed-item-body">
+    Nagare-Boshi aka Helen Rusovich who is a digital artist from the Ukraine has to be one of the most talented artists we have come across..  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/pQih6i6RzsM/">Dot Party, 5 free dotted patterns  | Web is Love - web &amp; design stuff</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 09:19</span>
+  </div>
+
+  <div class="feed-item-body">
+    Lately I created some patterns for my designs and today I want to offer to my visitors Dot Party, a cool set (in dotted style) for Photoshop. Some of them  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://sandbox.thewikies.com/img-w-radius/">Border Radius on Images</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/5" class="feed-item-source">CSS-Tricks</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 08:56</span>
+  </div>
+
+  <div class="feed-item-body">
+    <p>If you ever tried to use border-radius on &lt;img&gt;'s, you know that it doesn't always work (even if the browser supports that CSS3 property, like Firefox 3 and Opera 11). The root of it is that the image is content, not a container, and the container is what gets rounded with border-radius. Jonathan Neal has a demo to make this work. Essentially it sets the background of the image element to itself, and then changes the src of the image to a transparent GIF data URI.</p><p><a href="http://sandbox.thewikies.com/img-w-radius/" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="http://css-tricks.com/border-radius-on-images/">Permalink</a></p><br /><a href='http://rss.buysellads.com/click.php?z=1259963&amp;k=3469a2a501a9e18091036aa0c89f9dcb&amp;a=9290&amp;c=313937580' target='_blank'><img src='http://rss.buysellads.com/img.php?z=1259963&amp;k=3469a2a501a9e18091036aa0c89f9dcb&amp;a=9290&amp;c=313937580' border='0' alt='' /></a><p><a href='http://buysellads.com/buy/sitedetails/pubkey/3469a2a501a9e18091036aa0c89f9dcb/zone/1259963' target='_blank'>Advertise here with BSA</a></p>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/3">How-to&#039;s &amp; Tutorials</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://drupal.org/node/1148008">Need Drupal Programmer. Site almost completed with a few custom modules...</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/16" class="feed-item-source">Paid Drupal Services</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 07:03</span>
+  </div>
+
+  <div class="feed-item-body">
+    <p>We have a social media site with a heavily customized Zen theme and a few custom modules.</p>
+<p>We're using CCK for profiles and have other CCK types accepting photos and other items which are linked to their author, and displayed on the author's profile view. The site is built on Project Mercury for fast searching, etc. We have a detailed search engine built.</p>
+<p>We are about 95% of the way done with the site. It's right there, but our programmer took a full time job and his availability is evaporating fast. He's wrapping up some bugs this week, but will not be able to implement the final features we need.</p>
+<p>Our current programmer will be reviewing the work samples of all applicants for us, so if you respond, send information that demonstrates you know how to correctly use the Drupal API, do proper customization, etc.</p>
+<p>Other Requirements:</p>
+<p>1) We'd prefer someone state side. I'm sorry, but someone over seas already stole our money and didn't produce. We are not closed to overseas, but anyway...</p>
+<p>2) We're behind schedule, so we need someone who can dedicate themselves to this during the next week to help us wrap up.</p>
+<p>3) We want an ongoing relationship. There will be more features we want to have built into the site and another site we have, so someone that is available beyond this is ideal.</p>
+<p>4) Reasonable rate. Our current Chicago based programmer has been giving us a really nice rate, so give us your best offer.</p>
+<p>Please respond to <a href="mailto:atale@theatereleven.com" rel="nofollow">atale@theatereleven.com</a> no later than this Friday (yes, tomorrow, April 6th)</p>
+<p>Thank you!</p>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/jobs/craigslist/gigs/bay-area">Developer Jobs</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://www.smashingmagazine.com/2011/05/05/innovative-techniques-to-simplify-signups-and-logins/">Innovative Techniques To Simplify Sign-Ups and Log-Ins</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/7" class="feed-item-source">Smashing Magazine</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 06:23</span>
+  </div>
+
+  <div class="feed-item-body">
+     <img src="http://statisches.auslieferung.commindo-media-ressourcen.de/advertisement.gif" alt="" border="0" /><br /> <a href="http://auslieferung.commindo-media-ressourcen.de/www/delivery/ck.php?zoneid=34" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/www/delivery/avw.php?zoneid=34" border="0" alt="" /></a>&#160;<a href="http://auslieferung.commindo-media-ressourcen.de/www/delivery/ck.php?zoneid=35" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/www/delivery/avw.php?zoneid=35" border="0" alt="" /></a>&#160;<a href="http://auslieferung.commindo-media-ressourcen.de/www/delivery/ck.php?zoneid=36" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/www/delivery/avw.php?zoneid=36" border="0" alt="" /></a><p>There are many ways to design sign-up and log-in forms. Most designers are familiar with the conventional ways. But understanding and applying a few innovative techniques could make your forms simpler and more efficient to fill out. In this article, we'd like to present a couple of new ideas that might be useful for your next designs. Please notice that before using these techniques, you should make sure that they make sense in the context in which you are going to use them. We'd love to hear about your case-studies and usability tests that affirm or dismiss the suggestions proposed below.</p><p><a href="http://www.smashingmagazine.com/2011/05/05/innovative-techniques-to-simplify-signups-and-logins/"><img src="http://media.smashingmagazine.com/cdn_smash/wp-content/uploads/2011/05/signup.jpg" width="500" height="315" alt="Screenshot" /></a></p> <p>The purpose of every sign-up form is for users to complete it successfully and send it in. However, if the form is long and complicated, then the user’s excitement for your website could turn to displeasure. Here are a few innovative techniques that will make your forms faster and easier to fill out.</p>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/stIyCg4ac6Q/">How Facebook Comments is changing commenting on the Web | Webdesigner Depot</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 05:59</span>
+  </div>
+
+  <div class="feed-item-body">
+    Facebook Comments is a recently released plug-in commenting system by Facebook that allows commenters to use their Facebook identity to post comments on content around the Web. And as simple and innocent as that sounds, it has caused an uproar throughout the Web.
+<br />  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/Gf6BiS7tzGA/">10 Best Sites For Flash Resources</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 05:43</span>
+  </div>
+
+  <div class="feed-item-body">
+    Today we are going to represent best websites for flash tutorials and resources. Adobe Flash is a multimedia platform used to add animation, video, and interactivity to web pages. For creating animated and attractive websites, designers used flash tool for this.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/ZWsrJvWdfJc/">Top 10 New High-Quality Free Fonts For Designers</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 05:43</span>
+  </div>
+
+  <div class="feed-item-body">
+    Freebies – one of the most lovable word specially for graphic designers, web designers and developers. Every now and then, they find free resources on the Internet such as free fonts, jQuery plugins, free WordPress or Drupal themes and many more.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://css-tricks.com/restart-css-animation/">Restart CSS Animation</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/5" class="feed-item-source">CSS-Tricks</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 05:30</span>
+  </div>
+
+  <div class="feed-item-body">
+    <p>With CSS animations (ala <a href="http://css-tricks.com/snippets/css/webkit-keyframe-animation-syntax/">@-webkit-keyframes</a>) it's not as easy as you might think to "restart" it.  Let's say you set it to run once:</p>.run-animation {
+   -webkit-animation: my-fancy-animation 5s once;
+}<p>and you have that run on, say, your logo:</p>&lt;h1 id="logo" class="run-animation"&gt;
+    Fancy Logo
+&lt;/h1&gt;<p>Then for some reason you want to have that animation run again, perhaps on a click. You might think CSS provides a way to kick it off again, but as far as I know it doesn't. You might even try removing and re-adding that class name via JavaScript (jQuery):</p>$("#logo").click(function() {
+      // not gonna work
+      $(this).removeClass("run-animation").addClass("run-animation");
+});<p>What you really need to do is remove the element from the page entirely and re-insert it. As a quick demo with jQuery, we'll clone it, insert it right after itself, then remove the original.</p>$("#logo").click(function() {	
+
+          var el     = $(this),
+              newone = el.clone(true);
+
+          el.before(newone);
+
+          $("." + el.attr("class") + ":last").remove();
+
+});<p><a href="http://css-tricks.com/examples/RestartCSSAnimation/" class="button">View Demo</a></p>Is there an easier way?<p>I tend to post stuff like this and then someone points out a way that is like 50 times easier. I kinda hope that happens this time.</p> <br /><a href='http://rss.buysellads.com/click.php?z=1259963&amp;k=3469a2a501a9e18091036aa0c89f9dcb&amp;a=9283&amp;c=1192879282' target='_blank'><img src='http://rss.buysellads.com/img.php?z=1259963&amp;k=3469a2a501a9e18091036aa0c89f9dcb&amp;a=9283&amp;c=1192879282' border='0' alt='' /></a><p><a href='http://buysellads.com/buy/sitedetails/pubkey/3469a2a501a9e18091036aa0c89f9dcb/zone/1259963' target='_blank'>Advertise here with BSA</a></p>  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/3">How-to&#039;s &amp; Tutorials</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/SixRevisions/~3/sGUPT0Rpurw/">The “Bad Client” Fallacy</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/4" class="feed-item-source">Six Revisions</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 05:02</span>
+  </div>
+
+  <div class="feed-item-body">
+    <a href='http://rss.buysellads.com/click.php?z=1259902&amp;k=6989dd4b5220d0b14530453de7387991&amp;a=5349&amp;c=869793373' target='_blank'><img src='http://rss.buysellads.com/img.php?z=1259902&amp;k=6989dd4b5220d0b14530453de7387991&amp;a=5349&amp;c=869793373' border='0' alt='' /></a><p><a href='http://buysellads.com/buy/sitedetails/pubkey/6989dd4b5220d0b14530453de7387991/zone/1259902' target='_blank'>Advertise here with BSA</a></p><br /><p><a href="http://sixrevisions.com/project-management/the-bad-client-fallacy/"><img src="http://cdn.sixrevisions.com/0113-01_bad_client_fallacy_thumbnail.jpg" width="550" height="200" alt="The Bad Client Fallacy" /></a></p>
+<p>Web design and development blogs are always full of advice and constructive discussions. The  mission of these blogs is to help the community stay informed.</p>
+<p>One such informative article that a fellow Six Revisions writer of mine wrote recently is about the strategies involved in <a href="http://sixrevisions.com/project-management/preventative-medicine-bad-clients/" title="Using “Preventive Medicine” Against Bad Clients">avoiding bad clients</a>. Many other Six Revisions writers have tackled this concept with articles that discuss <a href="http://sixrevisions.com/project-management/20-questions-to-know-for-avoiding-website-project-disasters/" title="20 Questions to Know for Avoiding Website Project Disasters">how to avoid project disasters</a>, <a href="http://sixrevisions.com/project-management/how-to-handle-difficult-client-situations/" title="How to Handle Difficult Client Situations">how to handle difficult client situations</a>, and <a href="http://sixrevisions.com/project-management/drawing-the-line-6-things-you-shouldnt-tolerate-in-projects/" title=" 6 Things You Shouldn’t Tolerate in Projects">things we shouldn&#8217;t tolerate in design projects</a>, all circling back to the notion that it&#8217;s just best to avoid &quot;bad&quot; clients.</p>
+<p></p>
+<p>While I&#8217;m sure that these articles  are meant to act as educational materials for beginning freelancers, it seems that the ratio of advice about these so-called &quot;bad clients&quot; and their actual existence is disproportionately represented.</p>
+<p>In reality, it&#8217;s a rare occasion that you&#8217;ll be forced to deal with a client who&#8217;s terrible enough that you want to turn their business away and purposefully reduce your income. More often than not, a <a href="http://sixrevisions.com/project-management/client-vs-designer-four-lessons-to-win-the-battle/" title=" Four Lessons to Win the Battle">collaborative client-freelancer relationship</a> is (or can be) established.</p>
+<p>The process of hiring an individual or a team to develop a new website, a new ad campaign, a new logo, etc. should always have benefits for both parties. The party being hired gains a source of revenue and the client has the opportunity to meet a need that they can&#8217;t otherwise satisfy by themselves.</p>
+<p>For both parties involved, the goal is to create a wonderful product. And if everyone is in agreement on how to achieve that, the means to get there can always be made to fall in line with the desired outcomes.</p>
+We Won&#8217;t Always Match
+<p>There will be occasions where a designer and a client simply don&#8217;t match up (which <a href="http://sixrevisions.com/project-management/when-creative-conflict-is-a-good-thing/" title="When Creative Conflict is A Good Thing">isn&#8217;t  a bad thing</a>). These disagreements will usually involve one of the big three factors in projects: money, time, or talent.</p>
+<p>If a client doesn&#8217;t have the budget to pay the bills, then the project won&#8217;t get off the ground or won&#8217;t get the resources it needs to be developed successfully. Similarly, if the freelancer doesn&#8217;t have the time or skill to complete the project at hand, the project is equally doomed.</p>
+Traits of a &quot;Bad&quot; Client
+<p>Some of the common warning signs that more experienced professionals share to their fellow freelancers are focused around characteristics of a prospective client that can drive freelancers insane. Let&#8217;s take a look at some of the warning signs we&#8217;re often told about as being &quot;bad&quot; and why they&#8217;re not necessarily detrimental to a project if handled appropriately.</p>
+Know-It-All, Micromanaging Clients
+<p>This bit of advice is typically a warning against working with clients who seem to know everything about your profession. They always deliver work or revision requests with long explanations of why making the change they suggest is best for the product and how they read about it somewhere. They may try to drive and micromanage everything, which makes it very difficult to perform your work.</p>
+<p>However, freelancers should be well aware that it&#8217;s important to <a href="http://sixrevisions.com/project-management/how-to-manage-criticism-effectively/" title="How to Manage Criticism Effectively">manage and consider criticisms</a> that clients provide. Passing off the know-it-all client as someone who&#8217;s going to be too involved in the work is an unprofessional move. Debates, disagreements, and constructive conversations should have a role in every project or else the project decisions become at risk to groupthink.</p>
+<p>It&#8217;s up to the designer just as much as the client to make sure this part of the collaborative process maintains productivity instead of hinders it.</p>
+Uninvolved Clients
+<p>At the opposite end of the spectrum is the client we only hear from once every other month or so. It&#8217;s often impossible to move a project forward without communication from both sides. When designers don&#8217;t receive feedback on their work and milestones, projects drag on, and checks don&#8217;t get cut. </p>
+<p>The easiest solution to this problem is paperwork. We all know that <a href="http://sixrevisions.com/project-management/avoiding-unscoped-work-from-unreasonable-clients/" title="Avoiding Unscoped Work from Unreasonable Clients">contracts</a>, proposals and <a href="http://sixrevisions.com/tools/20-invoicing-tools-web-designers/" title="20 Invoicing Tools for Web Designers">invoices</a> &#8212; the <a href="http://sixrevisions.com/project-management/a-beginners-guide-to-the-business-side-of-freelancing/" title="A Beginner’s Guide to the Business Side of Freelancing">business side of being a freelancer</a> &#8212; aren&#8217;t exactly the most exciting part of the work, but they are critical tools for keeping our work in control.</p>
+<p>Taking a percentage of a project cost up front puts the ball in your court. You have the option to scrap the project and cut your losses. At the end of the day, you won&#8217;t have made the full project amount, but if you follow your guidelines, you won&#8217;t have done any unpaid work either.</p>
+Ignorant Clients
+<p>To me, turning clients down because they lack a solid direction for their project is one of the worst pieces of advice you can find in an article discussing problematic clients. The logic that&#8217;s given is that you&#8217;ll waste a lot of the project&#8217;s time waiting for the client to make up their mind.</p>
+<p>Educating clients is simply part of what we do, and, at least for me, one of the rewarding aspects of the job.</p>
+<p>If your client is having a hard time making a decision or you find them going back on their word a lot (resulting in tons of revision work), it&#8217;s your job to step up and give them direction. This is what they&#8217;re paying you for.</p>
+Spec Work Clients
+<p>Another huge topic when discussing the red flags involved in prospective clients are those who ask for speculative (free) work up front. It doesn&#8217;t take a genius to learn that working for free is a hard way to make a living.</p>
+<p>However, the most common way that the evils of spec work is discussed tends to blow the situation out of proportion and make it seem like a much larger problem than it really is. Speculative work doesn&#8217;t always mean working for free, getting ripped off, or running into a client who appears to be doing a little bit of shopping.</p>
+<p>Providing this client with some simple work such as an assessment of a current site or a little consultation on how they should approach a new website redesign could make the difference between you and a competitor getting the project.</p>
+<p>Occasionally providing spec work, when the situation is right, can be a good business maneuver toward garnering a job, and one that we see all the time in many other industries.</p>
+Taking the Risk with &quot;Bad&quot; Clients
+<p>Sure, it&#8217;s natural for both freelancers and clients to do some screening in order to find a good match for the project at hand. However, when we have lists of things to look out for and when we make it sound like the sky will fall on us if a tough client lands on our laps, we&#8217;ll miss out on a lot of good clients.</p>
+<p>Despite any number of warnings or advice about how to find and work with the right people, there&#8217;s still a good chance that all of us will have plenty of bad clients in the course of our careers.</p>
+<p>Teaching people how to avoid bad clients by giving them a list of traits to avoid is like telling a child that the secret to walking is not falling down. And much like falling down, living through the experience of a bad client or bad project is a learning experience that will make you a better professional.</p>
+<p>When considering clients, there are many factors to consider. Few of them are more important than the money it brings, the time you&#8217;ll have for it, and your ability to get the job done. If a client and project match up in terms of money, time, and talent, then accepting or rejecting a project may come down to what really amounts to a gut feeling, not a checklist of &quot;bad&quot; client traits.</p>
+<p>A designer who&#8217;s afraid that a client may present a challenge that they aren&#8217;t ready for is really just afraid of being better at what they do.</p>
+<p><em>Have you turned clients down because you were concerned about where the project might lead? What have you learned from working with bad clients? Have you had an experience where a client that you thought would be hard to work with ended up being great?</em></p>
+Related Content
+<ul>
+<li><a href="http://sixrevisions.com/project-management/7-tips-for-giving-effective-design-project-quotes/">7 Tips for Giving Effective Design Project Quotes</a></li>
+<li><a href="http://sixrevisions.com/project-management/wannabe-designers/">How Wannabe Designers Burden the Profession</a></li>
+<li><a href="http://sixrevisions.com/project-management/how-to-navigate-design-by-committee/">How to Navigate Design by Committee</a></li>
+<li><em>Related categories</em>: <a href="http://sixrevisions.com/category/project-management/">Project Management</a> and <a href="http://sixrevisions.com/category/productivity/">Productivity</a></li>
+</ul>
+About the Author
+<p class="about-author"><img src="http://images.sixrevisions.com/authors/jason_gross_small.jpg" alt="" width="80" height="80" /><strong>Jason Gross</strong> is a freelance web designer focused on creating clean and user friendly websites. Jason currently lives in Indiana and can be found on Twitter as @<a href="http://twitter.com/JasonAGross">JasonAGross</a> or on the web at <a href="http://jasonagross.com/">his personal blog</a> and portfolio.</p>
+
+<a href="http://feeds.feedburner.com/~ff/SixRevisions?a=sGUPT0Rpurw:05IAQfyV5h4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SixRevisions?i=sGUPT0Rpurw:05IAQfyV5h4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SixRevisions?a=sGUPT0Rpurw:05IAQfyV5h4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SixRevisions?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SixRevisions?a=sGUPT0Rpurw:05IAQfyV5h4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SixRevisions?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SixRevisions?a=sGUPT0Rpurw:05IAQfyV5h4:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/SixRevisions?i=sGUPT0Rpurw:05IAQfyV5h4:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SixRevisions?a=sGUPT0Rpurw:05IAQfyV5h4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/SixRevisions?d=7Q72WNTAKBA" border="0"></img></a>
+<img src="http://feeds.feedburner.com/~r/SixRevisions/~4/sGUPT0Rpurw" height="1" width="1" />  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/9-_f4FfASxk/">50 Awesomely Creative Business Card Designs</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 04:59</span>
+  </div>
+
+  <div class="feed-item-body">
+    Impressive and attractive business cards attracts international acknowledgement for your business. Today I have collected awesomely creative business card designs for your inspiration.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/e8zg-moCMGo/">Create a Cube with Embossed Letters on Each Side in Illustrator</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 04:45</span>
+  </div>
+
+  <div class="feed-item-body">
+    Hi there. In this week’s tutorial I will show you how to create a nice cube with some embossed letters on each side. First, you’ll learn to create some simple symbols then using the 3D Extrude&amp;Bevel effect you’ll create the rough cube shape. Next, using basic tools, effect and options you will reach the final result.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/KddelIK-_Kw/">40+ Most Artistic Examples Of iPad Finger Painting</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 04:22</span>
+  </div>
+
+  <div class="feed-item-body">
+    Showcase of most beautiful and amazing examples of iPad finger painting. Shared by some of the great online artists. They created amazing artworks by painted them on iPad.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+<div class="feed-item">
+  <h3 class="feed-item-title">
+    <a href="http://feedproxy.google.com/~r/DesignFloat/SubmittedEntries/~3/jHqPEzK_X3Y/">2 Lucky Readers Can Win a Premium Wordpress Theme From Elegantthemes.com</a>
+  </h3>
+
+  <div class="feed-item-meta">
+      <a href="/aggregator/sources/6" class="feed-item-source">design float</a> -
+      <span class="feed-item-date">Thu, 2011-05-05 03:40</span>
+  </div>
+
+  <div class="feed-item-body">
+    Jahangir from Art &amp; Design inspiration blog Dezineweblog.com is offering two premium wordpress themes designed and developed by Elegantthemes.com.  </div>
+
+  <div class="feed-item-categories">
+    Categories: <a href="/news/2">Web Design &amp; Development</a>  </div>
+
+</div>
+  <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=182" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=179" title="Go to page 180" class="active">180</a></li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=180" title="Go to page 181" class="active">181</a></li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=181" title="Go to page 182" class="active">182</a></li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=182" title="Go to page 183" class="active">183</a></li>
+<li class="pager-current">184</li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=184" title="Go to page 185" class="active">185</a></li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=185" title="Go to page 186" class="active">186</a></li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=186" title="Go to page 187" class="active">187</a></li>
+<li class="pager-item"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=187" title="Go to page 188" class="active">188</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=184" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/aggregator/Articles%20-%20Being%20Processed/Being%20Processed/Michael_Tuck_Gestalt_Web_Design/www.doc.gold.ac.uk/%7Ehs201mjl/Presentation1.ppt?page=190" title="Go to last page" class="active">last »</a></li>
+</ul></div></div>
+      </div>
+      
+	 
+ 
+		  <div class="feed-icons"><a href="/aggregator/rss" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Quevin LLC aggregator" width="16" height="16" /></a></div>
+	    </div><!-- /#main -->
+	
+	  		<div id="sidebar-right" class="column sidebar region grid-4">
+			<div id="sidebar-inner">
+				<div class="inner">
+  <div class="social-buttons">
+    <div class="button">
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="Quevin">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    </div>
+    <div class="button">
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.quevin.com%2Fnode%2F&amp;layout=standard&amp;show_faces=false&amp;width=50&amp;action=like&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:51px; height:35px;" allowTransparency="true"></iframe>
+    </div>
+    <div class="button">
+		<!-- AddToAny BEGIN -->
+		<a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="http://static.addtoany.com/buttons/share_save_120_16.gif" width="120" height="16" border="0" alt="Share"/></a>
+		<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+		<!-- AddToAny END -->
+	</div>
+  </div>				
+		  <div id="block-views-project_sidebar-block_1" class="block block-views region-odd odd region-count-1 count-3"><div class="block-inner">
+
+      <h2 class="title">Recent Projects @Quevin</h2>
+  
+  <div class="content">
+    <div class="view view-project-sidebar view-id-project_sidebar view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/projects/sktacom">SKTA.com</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/projects/knoodlecom">Knoodle.com</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/projects/peoplesynccom">PeopleSync.com</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/projects/insideviewcomdirectory">InsideView.com/directory</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <ul class="browse_projects">
+<li><a href="/projects">See all completed projects...</a></li>
+<ul>
+</ul></ul>    </div>
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-aggregator-feed-20" class="block block-aggregator region-even even region-count-2 count-4"><div class="block-inner">
+
+      <h2 class="title">Other Websites Using Drupal</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="http://buytaert.net/twitter-using-drupal">Twitter using Drupal</a>
+</li>
+<li><a href="http://buytaert.net/campaign-for-equality-with-drupal-based-friendfactor">Campaign for equality with Drupal-based Friendfactor</a>
+</li>
+<li><a href="http://buytaert.net/ikea-using-drupal">IKEA using Drupal</a>
+</li>
+<li class="last"><a href="http://buytaert.net/chris-rock-using-drupal">Chris Rock using Drupal</a>
+</li>
+</ul></div><div class="more-link"><a href="/aggregator/sources/20" title="View this feed&#039;s recent news.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-6" class="block block-block region-odd odd region-count-3 count-5"><div class="block-inner">
+
+  
+  <div class="content">
+    <p class="rtecenter">
+	<a href="http://www.ringcentral.com" onclick="var wind = window; var winop = wind.open; winop(&quot;http://www.ringcentral.com/ringme/?uc=911F5B396DCC813B7735C332D4492FD1142256301810,0,&amp;s=no&amp;v=2&quot;, &quot;Callback_RingMe&quot;, &quot;resizable=no,width=380,height=360&quot;); return false;" target="Callback_RingMe"><img alt="click-to-call from the web" border="0" src="http://www.ringcentral.com/ringme/911F5B396DCC813B7735C332D4492FD1142256301810,0,/1/click-to-call-large-o.gif" /></a></p>
+<p align="center">
+	<a href="http://association.drupal.org" title="Drupal Association"><img alt="Drupal Association Member" src="/sites/all/themes/quevin/images/drupal-association.png" /></a></p>
+<p>
+	<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FQuevin.LLC.San.Francisco&amp;width=270&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=62" style="border:none; overflow:hidden; width:270px; height:62px;"></iframe></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-aggregator-category-1" class="block block-aggregator region-even even region-count-4 count-6"><div class="block-inner">
+
+      <h2 class="title">Drupal &amp; CMS News</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="http://acquia.com/about-us/newsroom/coverage/acquia-makes-two-key-acquisitions-81711">Acquia makes two key acquisitions [8/17/11]</a>
+</li>
+<li><a href="http://acquia.com/about-us/newsroom/coverage/dries-buytaert-drupal-81711">Dries Buytaert on Drupal [8/17/11]</a>
+</li>
+<li><a href="http://acquia.com/about-us/newsroom/coverage/software-firm-acquia-acquires-two-companies-drupal-security-and-migration">Software Firm Acquia Acquires Two Companies for Drupal Security and Migration [8/16/11]</a>
+</li>
+<li><a href="http://acquia.com/about-us/newsroom/coverage/acquia-expands-drupal-product-suite-purchases-cyrve-growing-venture">Acquia Expands Drupal Product Suite With Purchases Of Cyrve, Growing Venture Solutions [8/16/11]</a>
+</li>
+<li class="last"><a href="http://acquia.com/about-us/newsroom/coverage/acquia-purchases-cyrve-gvs-81611">Acquia Purchases Cyrve, GVS [8/16/11]</a>
+</li>
+</ul></div><div class="more-link"><a href="/news/1" title="View this category&#039;s recent news.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-aggregator-category-3" class="block block-aggregator region-odd odd region-count-5 count-7"><div class="block-inner">
+
+      <h2 class="title">How-to&#039;s &amp; Tutorials</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="http://feedproxy.google.com/~r/nettuts/~3/visTlyPlaSQ/">Get the Birthday Bundle Today!</a>
+</li>
+<li><a href="http://simurai.com/post/9214147117/css3-brushed-metal">Brushed Metal with CSS Gradients</a>
+</li>
+<li><a href="http://css-tricks.com/13627-infinite-all-css-scrolling-slideshow/">Infinite All-CSS Scrolling Slideshow</a>
+</li>
+<li><a href="http://feedproxy.google.com/~r/nettuts/~3/xiUWkleOrvE/">How to Use the Nettuts+ Phing Build Script</a>
+</li>
+<li class="last"><a href="http://css-tricks.com/13695-how-i-think-posting-html-in-comments-should-work/">How I Think Posting HTML In Comments Should Work</a>
+</li>
+</ul></div><div class="more-link"><a href="/news/3" title="View this category&#039;s recent news.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-aggregator-category-5" class="block block-aggregator region-even even region-count-6 count-8"><div class="block-inner">
+
+      <h2 class="title">@Quevin&#039;s Tweets</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="http://twitter.com/Quevin/statuses/105585676430479360">Quevin: Hipster Ipsum! So useful for adding placeholder copy… http://t.co/XNZN5vj</a>
+</li>
+<li><a href="http://twitter.com/Quevin/statuses/105581021247971328">Quevin: A short introduction to Git Flow http://t.co/TtXcvRS</a>
+</li>
+<li><a href="http://twitter.com/Quevin/statuses/105574067171627008">Quevin: Drupal Scalability and Performance, with Josh and @pantheon_drupal here at @drupalcon  http://t.co/qBpjzMK</a>
+</li>
+<li><a href="http://twitter.com/Quevin/statuses/105229099718541312">Quevin: Walking through Hyde Park, London today.</a>
+</li>
+<li class="last"><a href="http://twitter.com/Quevin/statuses/103251925226622977">Quevin: Windows7 really knows how to annoy me  http://t.co/rKcE1L5</a>
+</li>
+</ul></div><div class="more-link"><a href="/news/5" title="View this category&#039;s recent news.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-8" class="block block-block region-odd odd region-count-7 count-9"><div class="block-inner">
+
+  
+  <div class="content">
+    <p class="rtecenter">
+	<a href="https://quevin.unfuddle.com/a#/account" target="_blank"><img alt="Quevin uses unfuddle for project managment" src="/sites/default/files/resize/unfuddle_git_and_subversion_hosting-154x43.png" style="border-width: 0px; border-style: solid; width: 154px; height: 43px;"  width="154" height="43"/></a></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+		  		</div><!-- /.inner -->
+		  	</div><!-- /#sidebar-inner -->
+		</div>
+	  
+  </div> <!-- /#page -->
+
+	<div id="footer-wrapper" class="clear-block">
+    	  <div id="footer" class="container-12 clear-block">
+                      <div id="primary-footer" class="region grid-12 clear-block">
+              <ul class="links"><li class="menu-740 first"><a href="/" title="Quevin LLC">Home</a></li>
+<li class="menu-1136"><a href="/projects" title="">Projects</a></li>
+<li class="menu-1106"><a href="/about_us">About Us</a></li>
+<li class="menu-1108"><a href="/questions">Questions?</a></li>
+<li class="menu-1110 last"><a href="/contact_us">Contact Us</a></li>
+</ul>            </div> <!-- /#primary-footer -->
+          				  <div id="footer-region" class="region grid-12 clear-block">
+			<div id="block-block-5" class="block block-block region-odd even region-count-1 count-10"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="links" id="client_info">
+<li>
+		<a href="/terms_of_service">Terms of Service</a></li>
+<li>
+		<a alt="Unfuddle" href="http://quevin.unfuddle.com">Client Log-in</a></li>
+<li>
+		<a href="http://dl.getdropbox.com/u/78541/client-worksheet.doc">Client Worksheet</a></li>
+<li>
+		<a href="/quick_start">Quick Estimate</a></li>
+<li>
+		<a href="/news">Industry News</a></li>
+<li>
+		<a href="/drupal_jobs">Drupal Jobs</a></li>
+</ul>
+<div id="footer_contact">
+	Phone: (888) 420-4571&nbsp;| 10:00 AM to 6:00 PM PT, Monday through Friday | San Francisco, CA</div>
+<div id="copyright">
+	Copyright &copy; 2010-2011&nbsp;Quevin, LLC -&nbsp;We&#39;re passionate about&nbsp;planning, designing, and developing&nbsp;exceptional Drupal based website</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-system-0" class="block block-system region-even odd region-count-2 count-11"><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="http://drupal.org"><img src="/misc/powered-gray-80x15.png" alt="Powered by Pressflow, an open source content management system" title="Powered by Pressflow, an open source content management system" width="80" height="15" /></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+		  </div>
+			
+			  	  </div><!-- /#footer -->
+    	</div><!-- /#footer-wrapper -->
+	
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3916003-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/default/files/googleanalytics/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

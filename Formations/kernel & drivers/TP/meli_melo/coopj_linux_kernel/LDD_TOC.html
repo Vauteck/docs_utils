@@ -1,0 +1,997 @@
+
+<!-- saved from url=(0033)http://www.coopj.com/LDD_TOC.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><link type="text/css" rel="stylesheet" href="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/style.css"><script type="text/javascript" charset="utf-8" src="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/page_context.js"></script></head><body screen_capture_injected="true"><hr>
+<img src="./LDD_TOC_files/linux.png">
+<hr>
+<h1>
+  <font size="-1" color="#0000DD"><i>Writing</i></font> Linux
+  Device Drivers <font size="-1" color="#0000DD"><br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <i>a guide
+  with exercises</i></font>
+</h1>
+<div class="NOPRINT">
+  <table width="400" border="" cellspacing="1" cellpadding="2">
+    <tbody><tr>
+      <td>
+        <font size="-1" color="#006688"><b><i>© COPYRIGHT
+        Jerry Cooperstein 2009</i></b></font>
+      </td>
+    </tr>
+  </tbody></table>
+
+<h3>
+  <font color="#0000AA">Table of Contents</font>
+</h3>
+<hr>
+<aa hhref="s_00/index.html">Chapter 00: <b>Preface</b>
+<ul>
+  <li>
+    <aa hhref="s_00/preface.html">Preface
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_01/index.html">Chapter 01: <b>Preliminaries</b>
+<ul>
+  <li>
+    <aa hhref="s_01/proced.html">Procedures
+  </aa></li>
+  <li>
+    <aa hhref="s_01/distro.html">Linux Distributions
+  </aa></li>
+  <li>
+    <aa hhref="s_01/version.html">Kernel Versions
+  </aa></li>
+  <li>
+    <aa hhref="s_01/platform.html">Platforms
+  </aa></li>
+  <li>
+    <aa hhref="s_01/hardware.html">Hardware
+  </aa></li>
+  <li>
+    <aa hhref="s_01/project.html">Linux Driver Project
+  </aa></li>
+  <li>
+    <aa hhref="s_01/documentation.html">Documentation and
+    Links
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_02/index.html">Chapter 02: <b>Device Drivers</b>
+<ul>
+  <li>
+    <aa hhref="s_02/device.html">Types of Devices
+  </aa></li>
+  <li>
+    <aa hhref="s_02/policy.html">Mechanism vs. Policy
+  </aa></li>
+  <li>
+    <aa hhref="s_02/blob.html">Avoiding Binary Blobs
+  </aa></li>
+  <li>
+    <aa hhref="s_02/how.html">How Applications Use Device
+    Drivers
+  </aa></li>
+  <li>
+    <aa hhref="s_02/walk.html">Walking Through a System Call
+  </aa></li>
+  <li>
+    <aa hhref="s_02/errno.html">Error Numbers
+  </aa></li>
+  <li>
+    <aa hhref="s_02/printing.html"><b>printk()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_02/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_03/index.html">Chapter 03: <b>Modules I:
+Basics</b>
+<ul>
+  <li>
+    <aa hhref="s_03/whatis.html">What is a Module?
+  </aa></li>
+  <li>
+    <aa hhref="s_03/trivial.html">A Trivial Example - Hello
+    World
+  </aa></li>
+  <li>
+    <aa hhref="s_03/modutils.html">Module Utilities
+  </aa></li>
+  <li>
+    <aa hhref="s_03/params.html">Passing Parameters
+  </aa></li>
+  <li>
+    <aa hhref="s_03/compile.html">Compiling a Module
+  </aa></li>
+  <li>
+    <aa hhref="s_03/hotplug.html">Modules and Hot Plug
+  </aa></li>
+  <li>
+    <aa hhref="s_03/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_04/index.html">Chapter 04: <b>Character
+Devices</b>
+<ul>
+  <li>
+    <aa hhref="s_04/nodes.html">Device Nodes
+  </aa></li>
+  <li>
+    <aa hhref="s_04/majorminor.html">Major and Minor Numbers
+  </aa></li>
+  <li>
+    <aa hhref="s_04/register.html">Reserving Major/Minor
+    Numbers
+  </aa></li>
+  <li>
+    <aa hhref="s_04/access.html">Accessing the Device Node
+  </aa></li>
+  <li>
+    <aa hhref="s_04/regchr.html">Registering the Device
+  </aa></li>
+  <li>
+    <aa hhref="s_04/udev.html"><b>udev</b> and <b>HAL</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_04/fileops.html"><b>file_operations</b>
+    Structure
+  </aa></li>
+  <li>
+    <aa hhref="s_04/entry.html">Driver Entry Points
+  </aa></li>
+  <li>
+    <aa hhref="s_04/fileinode.html">The <b>file</b> and
+    <b>inode</b> Structures
+  </aa></li>
+  <li>
+    <aa hhref="s_04/usage.html">Module Usage Count
+  </aa></li>
+  <li>
+    <aa hhref="s_04/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_05/index.html">Chapter 05: <b>Kernel
+Configuration and Compilation</b>
+<ul>
+  <li>
+    <aa hhref="s_05/layout.html">Installation and Layout of the
+    Kernel Source
+  </aa></li>
+  <li>
+    <aa hhref="s_05/kernelbrowse.html">Kernel Browsers
+  </aa></li>
+  <li>
+    <aa hhref="s_05/config.html">Kernel Configuration Files
+  </aa></li>
+  <li>
+    <aa hhref="s_05/kernel.html">Rolling Your Own Kernel
+  </aa></li>
+  <li>
+    <aa hhref="s_05/initrd.html">initrd and initramfs
+  </aa></li>
+  <li>
+    <aa hhref="s_05/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_06/index.html">Chapter 06: <b>Kernel
+Features</b>
+<ul>
+  <li>
+    <aa hhref="s_06/main.html">Components of the Kernel
+  </aa></li>
+  <li>
+    <aa hhref="s_06/space.html">User-Space vs. Kernel-Space
+  </aa></li>
+  <li>
+    <aa hhref="s_06/schedule.html">Scheduling Algorithms and Task
+    Structures
+  </aa></li>
+  <li>
+    <aa hhref="s_06/context.html">Process Context
+  </aa></li>
+  <li>
+    <aa hhref="s_06/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_07/index.html">Chapter 07: <b>Kernel Style and
+General Considerations</b>
+<ul>
+  <li>
+    <aa hhref="s_07/style.html">Coding Style
+  </aa></li>
+  <li>
+    <aa hhref="s_07/kerneldoc.html">kernel-doc
+  </aa></li>
+  <li>
+    <aa hhref="s_07/reuse.html">Using Generic Kernel Routines and
+    Methods
+  </aa></li>
+  <li>
+    <aa hhref="s_07/patch.html">Making a Kernel Patch
+  </aa></li>
+  <li>
+    <aa hhref="s_07/sparse.html">sparse
+  </aa></li>
+  <li>
+    <aa hhref="s_07/likely.html">Using <b>likely()</b> and
+    <b>unlikely()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_07/linked.html">Linked Lists
+  </aa></li>
+  <li>
+    <aa hhref="s_07/port.html">Writing Portable Code - 32/64-bit,
+    Endianness
+  </aa></li>
+  <li>
+    <aa hhref="s_07/smp.html">Writing for SMP
+  </aa></li>
+  <li>
+    <aa hhref="s_07/mem.html">Writing for High Memory Systems
+  </aa></li>
+  <li>
+    <aa hhref="s_07/sec.html">Keeping Security in Mind
+  </aa></li>
+  <li>
+    <aa hhref="s_07/headers.html">Mixing User- and Kernel-Space
+    Headers
+  </aa></li>
+  <li>
+    <aa hhref="s_07/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_08/index.html">Chapter 08: <b>Interrupts and
+Exceptions</b>
+<ul>
+  <li>
+    <aa hhref="s_08/whatis.html">What are Interrupts and
+    Exceptions?
+  </aa></li>
+  <li>
+    <aa hhref="s_08/exception.html">Exceptions
+  </aa></li>
+  <li>
+    <aa hhref="s_08/interrupt.html">Interrupts
+  </aa></li>
+  <li>
+    <aa hhref="s_08/msi.html">MSI
+  </aa></li>
+  <li>
+    <aa hhref="s_08/enable.html">Enabling/Disabling
+    Interrupts
+  </aa></li>
+  <li>
+    <aa hhref="s_08/doable.html">What You Cannot Do at Interrupt
+    Time
+  </aa></li>
+  <li>
+    <aa hhref="s_08/structs.html">IRQ Data Structures
+  </aa></li>
+  <li>
+    <aa hhref="s_08/register.html">Installing an Interrupt
+    Handler
+  </aa></li>
+  <li>
+    <aa hhref="s_08/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_09/index.html">Chapter 09: <b>Modules II:
+Exporting, Licensing and Dynamic Loading</b>
+<ul>
+  <li>
+    <aa hhref="s_09/export.html">Exporting Symbols
+  </aa></li>
+  <li>
+    <aa hhref="s_09/license.html">Module Licensing
+  </aa></li>
+  <li>
+    <aa hhref="s_09/dynamic.html">Automatic Loading/Unloading of
+    Modules
+  </aa></li>
+  <li>
+    <aa hhref="s_09/builtin.html">Built-in Drivers
+  </aa></li>
+  <li>
+    <aa hhref="s_09/kbuild.html">Kernel Building and
+    Makefiles
+  </aa></li>
+  <li>
+    <aa hhref="s_09/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_10/index.html">Chapter 10: <b>Debugging
+Techniques</b>
+<ul>
+  <li>
+    <aa hhref="s_10/oops.html"><b>oops</b> Messages
+  </aa></li>
+  <li>
+    <aa hhref="s_10/debug.html">Kernel Debuggers
+  </aa></li>
+  <li>
+    <aa hhref="s_10/debugfs.html"><b>debugfs</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_10/kprobes.html"><b>kprobes</b> and
+    <b>jprobes</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_10/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_11/index.html">Chapter 11: <b>Timing and
+Timers</b>
+<ul>
+  <li>
+    <aa hhref="s_11/jiffies.html">Jiffies
+  </aa></li>
+  <li>
+    <aa hhref="s_11/timing.html">Time Stamp Counter
+  </aa></li>
+  <li>
+    <aa hhref="s_11/delays.html">Inserting Delays
+  </aa></li>
+  <li>
+    <aa hhref="s_11/whatis.html">What are Dynamic Timers?
+  </aa></li>
+  <li>
+    <aa hhref="s_11/functions.html">Timer Functions
+  </aa></li>
+  <li>
+    <aa hhref="s_11/implement.html">Timer Implementation
+  </aa></li>
+  <li>
+    <aa hhref="s_11/ktimer.html">High Resolution Timers
+  </aa></li>
+  <li>
+    <aa hhref="s_11/hrtimer.html">Using High Resolution
+    Timers
+  </aa></li>
+  <li>
+    <aa hhref="s_11/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_12/index.html">Chapter 12: <b>Race Conditions
+and Synchronization Methods</b>
+<ul>
+  <li>
+    <aa hhref="s_12/sync.html">Concurrency and Synchronization
+    Methods
+  </aa></li>
+  <li>
+    <aa hhref="s_12/atomic.html">Atomic Operations
+  </aa></li>
+  <li>
+    <aa hhref="s_12/bit.html">Bit Operations
+  </aa></li>
+  <li>
+    <aa hhref="s_12/spinlock.html">Spinlocks
+  </aa></li>
+  <li>
+    <aa hhref="s_12/bkl.html">Big Kernel Lock
+  </aa></li>
+  <li>
+    <aa hhref="s_12/mutex.html">Mutexes
+  </aa></li>
+  <li>
+    <aa hhref="s_12/sem.html">Semaphores
+  </aa></li>
+  <li>
+    <aa hhref="s_12/complete.html">Completion Functions
+  </aa></li>
+  <li>
+    <aa hhref="s_12/kref.html">Reference Counts
+  </aa></li>
+  <li>
+    <aa hhref="s_12/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_13/index.html">Chapter 13: <b>ioctl's</b>
+<ul>
+  <li>
+    <aa hhref="s_13/whatis.html">What are <b>ioctl</b>s?
+  </aa></li>
+  <li>
+    <aa hhref="s_13/entry.html">Driver Entry point for
+    <b>ioctl</b>s
+  </aa></li>
+  <li>
+    <aa hhref="s_13/lockless.html">Lockless <b>ioctl</b>s
+  </aa></li>
+  <li>
+    <aa hhref="s_13/defining.html">Defining <b>ioctl</b>s
+  </aa></li>
+  <li>
+    <aa hhref="s_13/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_14/index.html">Chapter 14: <b>The proc
+Filesystem</b>
+<ul>
+  <li>
+    <aa hhref="s_14/whatis.html">What is the <b>proc</b>
+    Filesystem?
+  </aa></li>
+  <li>
+    <aa hhref="s_14/create.html">Creating Entries
+  </aa></li>
+  <li>
+    <aa hhref="s_14/read.html">Reading Entries
+  </aa></li>
+  <li>
+    <aa hhref="s_14/write.html">Writing Entries
+  </aa></li>
+  <li>
+    <aa hhref="s_14/seqfile.html">The <b>seq_file</b>
+    Interface
+  </aa></li>
+  <li>
+    <aa hhref="s_14/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_15/index.html">Chapter 15: <b>Unified Device
+Model and sysfs</b>
+<ul>
+  <li>
+    <aa hhref="s_15/whatis.html">Unified Device Model
+  </aa></li>
+  <li>
+    <aa hhref="s_15/structs.html">Basic Structures
+  </aa></li>
+  <li>
+    <aa hhref="s_15/real.html">Real Devices
+  </aa></li>
+  <li>
+    <aa hhref="s_15/sysfs.html">sysfs
+  </aa></li>
+  <li>
+    <aa hhref="s_15/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_16/index.html">Chapter 16: <b>Firmware</b>
+<ul>
+  <li>
+    <aa hhref="s_16/whatis.html">What is Firmware?
+  </aa></li>
+  <li>
+    <aa hhref="s_16/firmware.html">Loading Firmware
+  </aa></li>
+  <li>
+    <aa hhref="s_16/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_17/index.html">Chapter 17: <b>Memory Management
+and Allocation</b>
+<ul>
+  <li>
+    <aa hhref="s_17/virtual.html">Virtual and Physical Memory
+  </aa></li>
+  <li>
+    <aa hhref="s_17/zone.html">Memory Zones
+  </aa></li>
+  <li>
+    <aa hhref="s_17/page.html">Page Tables
+  </aa></li>
+  <li>
+    <aa hhref="s_17/kmalloc.html"><b>kmalloc()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_17/pages.html"><b>__get_free_pages()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_17/vmalloc.html"><b>vmalloc()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_17/bootmem.html">Early Allocations and
+    <b>bootmem()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_17/slab.html">Slabs and Cache Allocations
+  </aa></li>
+  <li>
+    <aa hhref="s_17/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_18/index.html">Chapter 18: <b>Transferring
+Between User and Kernel Space</b>
+<ul>
+  <li>
+    <aa hhref="s_18/transfer.html">Transferring Between
+    Spaces
+  </aa></li>
+  <li>
+    <aa hhref="s_18/functions.html"><b>put(get)_user()</b> and
+    <b>copy_to(from)_user()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_18/direct.html">Direct transfer - Kernel I/O and
+    Memory Mapping
+  </aa></li>
+  <li>
+    <aa hhref="s_18/kio.html">Kernel I/O
+  </aa></li>
+  <li>
+    <aa hhref="s_18/user_raw.html">Mapping User Pages
+  </aa></li>
+  <li>
+    <aa hhref="s_18/whatis_mmap.html">Memory Mapping
+  </aa></li>
+  <li>
+    <aa hhref="s_18/user_mmap.html">User-Space Functions for
+    <b>mmap()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_18/entry.html">Driver Entry Point for
+    <b>mmap()</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_18/relay.html">Relay Channels
+  </aa></li>
+  <li>
+    <aa hhref="s_18/relayapi.html">Relay API
+  </aa></li>
+  <li>
+    <aa hhref="s_18/file.html">Accessing Files from the
+    Kernel
+  </aa></li>
+  <li>
+    <aa hhref="s_18/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_19/index.html">Chapter 19: <b>Sleeping and Wait
+Queues</b>
+<ul>
+  <li>
+    <aa hhref="s_19/whatis.html">What are Wait Queues?
+  </aa></li>
+  <li>
+    <aa hhref="s_19/sleep.html">Going to Sleep and Waking Up
+  </aa></li>
+  <li>
+    <aa hhref="s_19/sleep_implement.html">Going to Sleep
+    Details
+  </aa></li>
+  <li>
+    <aa hhref="s_19/exclusive.html">Exclusive Sleeping
+  </aa></li>
+  <li>
+    <aa hhref="s_19/wake_implement.html">Waking Up Details
+  </aa></li>
+  <li>
+    <aa hhref="s_19/poll.html">Polling
+  </aa></li>
+  <li>
+    <aa hhref="s_19/interrupt.html">Interrupt Handling in
+    User-Space
+  </aa></li>
+  <li>
+    <aa hhref="s_19/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_20/index.html">Chapter 20: <b>Interrupt Handling
+and Deferrable Functions</b>
+<ul>
+  <li>
+    <aa hhref="s_20/halves.html">Top and Bottom Halves
+  </aa></li>
+  <li>
+    <aa hhref="s_20/defer.html">Deferrable Functions and
+    softirqs
+  </aa></li>
+  <li>
+    <aa hhref="s_20/tasklet.html">Tasklets
+  </aa></li>
+  <li>
+    <aa hhref="s_20/workq.html">Work Queues
+  </aa></li>
+  <li>
+    <aa hhref="s_20/createt.html">Creating Kernel Threads
+  </aa></li>
+  <li>
+    <aa hhref="s_20/threaded.html">Threaded Interrupt
+    Handlers
+  </aa></li>
+  <li>
+    <aa hhref="s_20/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_21/index.html">Chapter 21: <b>Hardware I/O</b>
+<ul>
+  <li>
+    <aa hhref="s_21/bus.html">Buses and Ports
+  </aa></li>
+  <li>
+    <aa hhref="s_21/barrier.html">Memory Barriers
+  </aa></li>
+  <li>
+    <aa hhref="s_21/register.html">Registering I/O Ports
+  </aa></li>
+  <li>
+    <aa hhref="s_21/resource.html">Resource Management
+  </aa></li>
+  <li>
+    <aa hhref="s_21/rdwrite.html">Reading and Writing Data from
+    I/O Registers
+  </aa></li>
+  <li>
+    <aa hhref="s_21/slow.html">Slowing I/O Calls to the
+    Hardware
+  </aa></li>
+  <li>
+    <aa hhref="s_21/mem.html">Allocating and Mapping I/O
+    Memory
+  </aa></li>
+  <li>
+    <aa hhref="s_21/access.html">Accessing I/O Memory
+  </aa></li>
+  <li>
+    <aa hhref="s_21/ioperm.html">Access by User - <b>ioperm(),
+    iopl(), /dev/port</b>
+  </aa></li>
+  <li>
+    <aa hhref="s_21/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_22/index.html">Chapter 22: <b>PCI</b>
+<ul>
+  <li>
+    <aa hhref="s_22/whatis.html">What is PCI?
+  </aa></li>
+  <li>
+    <aa hhref="s_22/driver.html">PCI Device Drivers
+  </aa></li>
+  <li>
+    <aa hhref="s_22/functions.html">PCI Structures and
+    Functions
+  </aa></li>
+  <li>
+    <aa hhref="s_22/access.html">Accessing Configuration
+    Space
+  </aa></li>
+  <li>
+    <aa hhref="s_22/accessio.html">Accessing I/O and Memory
+    Spaces
+  </aa></li>
+  <li>
+    <aa hhref="s_22/pcie.html">PCI Express
+  </aa></li>
+  <li>
+    <aa hhref="s_22/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_23/index.html">Chapter 23: <b>Direct Memory
+Access (DMA)</b>
+<ul>
+  <li>
+    <aa hhref="s_23/whatis.html">What is DMA?
+  </aa></li>
+  <li>
+    <aa hhref="s_23/interrupt.html">DMA and Interrupts
+  </aa></li>
+  <li>
+    <aa hhref="s_23/memory.html">DMA Memory Constraints
+  </aa></li>
+  <li>
+    <aa hhref="s_23/user.html">DMA Directly to User
+  </aa></li>
+  <li>
+    <aa hhref="s_23/pci.html">DMA under PCI
+  </aa></li>
+  <li>
+    <aa hhref="s_23/pool.html">DMA Pools
+  </aa></li>
+  <li>
+    <aa hhref="s_23/sg.html">Scatter/Gather Mappings
+  </aa></li>
+  <li>
+    <aa hhref="s_23/isa.html">DMA under ISA
+  </aa></li>
+  <li>
+    <aa hhref="s_23/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_24/index.html">Chapter 24: <b>Network Drivers I:
+Basics</b>
+<ul>
+  <li>
+    <aa hhref="s_24/netlayers.html">Network Layers and Data
+    Encapsulation
+  </aa></li>
+  <li>
+    <aa hhref="s_24/datalink.html">Datalink Layer
+  </aa></li>
+  <li>
+    <aa hhref="s_24/drivers.html">Network Device Drivers
+  </aa></li>
+  <li>
+    <aa hhref="s_24/register.html">Loading/Unloading
+  </aa></li>
+  <li>
+    <aa hhref="s_24/open.html">Opening and Closing
+  </aa></li>
+  <li>
+    <aa hhref="s_24/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_25/index.html">Chapter 25: <b>Network Drivers
+II: Data Structures</b>
+<ul>
+  <li>
+    <aa hhref="s_25/device.html"><b>net_device</b> Structure
+  </aa></li>
+  <li>
+    <aa hhref="s_25/netdevops.html"><b>net_device_ops</b>
+    Structure
+  </aa></li>
+  <li>
+    <aa hhref="s_25/skbuff.html"><b>sk_buff</b> Structure
+  </aa></li>
+  <li>
+    <aa hhref="s_25/skbfuns.html">Socket Buffer Functions
+  </aa></li>
+  <li>
+    <aa hhref="s_25/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_26/index.html">Chapter 26: <b>Network Drivers
+III: Transmission and Reception</b>
+<ul>
+  <li>
+    <aa hhref="s_26/transmit.html">Transmitting Data and
+    Timeouts
+  </aa></li>
+  <li>
+    <aa hhref="s_26/receive.html">Receiving Data
+  </aa></li>
+  <li>
+    <aa hhref="s_26/statistics.html">Statistics
+  </aa></li>
+  <li>
+    <aa hhref="s_26/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_27/index.html">Chapter 27: <b>Network Drivers
+IV: Selected Topics</b>
+<ul>
+  <li>
+    <aa hhref="s_27/multi.html">Multicasting
+  </aa></li>
+  <li>
+    <aa hhref="s_27/link.html">Changes in Link State
+  </aa></li>
+  <li>
+    <aa hhref="s_27/ioctl.html"><b>ioctl</b>s
+  </aa></li>
+  <li>
+    <aa hhref="s_27/napi.html">NAPI and Interrupt Mitigation
+  </aa></li>
+  <li>
+    <aa hhref="s_27/napi_details.html">NAPI Details
+  </aa></li>
+  <li>
+    <aa hhref="s_27/tsotoe.html">TSO and TOE
+  </aa></li>
+  <li>
+    <aa hhref="s_27/mii_ethtool.html">MII and ethtool
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_28/index.html">Chapter 28: <b>USB Drivers</b>
+<ul>
+  <li>
+    <aa hhref="s_28/whatis.html">What is USB?
+  </aa></li>
+  <li>
+    <aa hhref="s_28/topology.html">USB Topology
+  </aa></li>
+  <li>
+    <aa hhref="s_28/descriptor.html">Descriptors
+  </aa></li>
+  <li>
+    <aa hhref="s_28/classes.html">USB Device Classes
+  </aa></li>
+  <li>
+    <aa hhref="s_28/transfer.html">Data Transfer
+  </aa></li>
+  <li>
+    <aa hhref="s_28/usblinux.html">USB under Linux
+  </aa></li>
+  <li>
+    <aa hhref="s_28/register.html">Registering USB Devices
+  </aa></li>
+  <li>
+    <aa hhref="s_28/example.html">Example of a USB Driver
+  </aa></li>
+  <li>
+    <aa hhref="s_28/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_29/index.html">Chapter 29: <b>Memory Technology
+Devices</b>
+<ul>
+  <li>
+    <aa hhref="s_29/whatis.html">What are MTD Devices?
+  </aa></li>
+  <li>
+    <aa hhref="s_29/nandnor.html">NAND vs. NOR
+  </aa></li>
+  <li>
+    <aa hhref="s_29/driveruser.html">Driver and User Modules
+  </aa></li>
+  <li>
+    <aa hhref="s_29/flashfile.html">Flash Filesystems
+  </aa></li>
+  <li>
+    <aa hhref="s_29/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_30/index.html">Chapter 30: <b>Power
+Management</b>
+<ul>
+  <li>
+    <aa hhref="s_30/power.html">Power Management
+  </aa></li>
+  <li>
+    <aa hhref="s_30/whatis.html">APM and ACPI
+  </aa></li>
+  <li>
+    <aa hhref="s_30/states.html">System Power States
+  </aa></li>
+  <li>
+    <aa hhref="s_30/functions.html">Callback Functions
+  </aa></li>
+  <li>
+    <aa hhref="s_30/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_31/index.html">Chapter 31: <b>Notifiers</b>
+<ul>
+  <li>
+    <aa hhref="s_31/whatis.html">What are Notifiers?
+  </aa></li>
+  <li>
+    <aa hhref="s_31/struct.html">Data Structures
+  </aa></li>
+  <li>
+    <aa hhref="s_31/callback.html">Callbacks and
+    Notifications
+  </aa></li>
+  <li>
+    <aa hhref="s_31/create.html">Creating Notifier Chains
+  </aa></li>
+  <li>
+    <aa hhref="s_31/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_32/index.html">Chapter 32: <b>CPU Frequency
+Scaling</b>
+<ul>
+  <li>
+    <aa hhref="s_32/whatis.html">What is Frequency and Voltage
+    Scaling?
+  </aa></li>
+  <li>
+    <aa hhref="s_32/notify.html">Notifiers
+  </aa></li>
+  <li>
+    <aa hhref="s_32/drivers.html">Drivers
+  </aa></li>
+  <li>
+    <aa hhref="s_32/gov.html">Governors
+  </aa></li>
+  <li>
+    <aa hhref="s_32/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_33/index.html">Chapter 33: <b>Asynchronous
+I/O</b>
+<ul>
+  <li>
+    <aa hhref="s_33/whatis.html">What is Asynchronous I/O?
+  </aa></li>
+  <li>
+    <aa hhref="s_33/api.html">The Posix Asynchronous I/O API
+  </aa></li>
+  <li>
+    <aa hhref="s_33/implement.html">Linux Implementation
+  </aa></li>
+  <li>
+    <aa hhref="s_33/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_34/index.html">Chapter 34: <b>I/O Scheduling</b>
+<ul>
+  <li>
+    <aa hhref="s_34/whatis.html">I/O Scheduling
+  </aa></li>
+  <li>
+    <aa hhref="s_34/tunables.html">Tunables
+  </aa></li>
+  <li>
+    <aa hhref="s_34/noop.html">noop I/O Scheduler
+  </aa></li>
+  <li>
+    <aa hhref="s_34/deadline.html">Deadline I/O Scheduler
+  </aa></li>
+  <li>
+    <aa hhref="s_34/cfq.html">Completely Fair Queue Scheduler
+  </aa></li>
+  <li>
+    <aa hhref="s_34/as.html">Anticipatory I/O Scheduler
+  </aa></li>
+  <li>
+    <aa hhref="s_34/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<aa hhref="s_35/index.html">Chapter 35: <b>Block Drivers</b>
+<ul>
+  <li>
+    <aa hhref="s_35/whatis.html">What are Block Drivers?
+  </aa></li>
+  <li>
+    <aa hhref="s_35/buffer.html">Buffering
+  </aa></li>
+  <li>
+    <aa hhref="s_35/register.html">Registering a Block Driver
+  </aa></li>
+  <li>
+    <aa hhref="s_35/gendisk.html"><b>gendisk</b> Structure
+  </aa></li>
+  <li>
+    <aa hhref="s_35/request.html">Request Handling
+  </aa></li>
+  <li>
+    <aa hhref="s_35/lab.html">Labs
+  </aa></li>
+</ul>
+<hr>
+<h3>
+  <font size="-1" color="#0000DD"><i>Writing</i></font> Linux
+  Device Drivers <font size="-1" color="#0000DD"><br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <i>a guide
+  with exercises</i></font>
+</h3>
+<div class="NOPRINT">
+  <table width="400" border="" cellspacing="1" cellpadding="2">
+    <tbody><tr>
+      <td>
+        <font size="-1" color="#006688"><b><i>© COPYRIGHT
+        Jerry Cooperstein 2009</i></b></font>
+      </td>
+    </tr>
+  </tbody></table>
+
+<hr>
+</div></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></aa></div><div id="imacros-bookmark-div" style="display: none; "><textarea id="imacros-macro-container"></textarea></div></body></html>

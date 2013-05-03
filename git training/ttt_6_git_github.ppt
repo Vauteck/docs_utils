@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request <em><a href="/programs/tech-talks/slides/ttt_6_git_github.ppt">GET&nbsp;/programs/tech-talks/slides/ttt_6_git_github.ppt</a></em>.<p>
+Reason: <strong>Error reading from remote server</strong></p></p>
+<hr>
+<address>Apache/2.2.9 (Ubuntu) DAV/2 SVN/1.6.6 Phusion_Passenger/2.0.3 mod_ssl/2.2.9 OpenSSL/0.9.8g mod_wsgi/2.3 Python/2.5.2 mod_perl/2.0.4 Perl/v5.10.0 Server at sse.se.rit.edu Port 80</address>
+</body></html>

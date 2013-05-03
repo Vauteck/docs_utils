@@ -1,0 +1,3 @@
+qemu -net user -net nic,model=rtl8139 -kernel bzImage.i386.5 -hda rootfs.i386.ext2.5 -append "root=/dev/sda rw vga=784"
+
+qemu-system-arm -M versatilepb -m 128M -kernel flash.bin

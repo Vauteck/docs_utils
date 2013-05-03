@@ -1,0 +1,23 @@
+#
+# TP04 : Création d'un makefile pour un module dynamique
+#
+# EUROGICIEL Rennes - Formation noyau & drivers sous gnu/linux
+#
+
+obj-m:= stubdriver.o
+KDIR := /lib/modules/$(shell uname -r)/build
+PWD := $(shell pwd)
+
+all:
+	make -C $(KDIR) M=$(PWD) modules
+
+install:
+	make -C $(KDIR) M=$(PWD) modules_install
+
+clean:
+	make -C $(KDIR) M=$(PWD) clean
+
+
+#
+# END OF FILE
+#

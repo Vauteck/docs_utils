@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!-- git web interface version 1.6.5.GIT, (C) 2005-2006, Kay Sievers <kay.sievers@vrfy.org>, Christian Gierke -->
+<!-- git core binaries version 1.6.5.GIT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="generator" content="gitweb/1.6.5.GIT git/1.6.5.GIT"/>
+<meta name="robots" content="index, nofollow"/>
+<title>Public Git Hosting - Science-Project.git/blobdiff - science/Science_Project.ppt</title>
+<script type="text/javascript">/* <![CDATA[ */
+function fixBlameLinks() {
+	var allLinks = document.getElementsByTagName("a");
+	for (var i = 0; i < allLinks.length; i++) {
+		var link = allLinks.item(i);
+		if (link.className == 'blamelink')
+			link.href = link.href.replace("/blame/", "/blame_incremental/");
+	}
+}
+/* ]]> */</script>
+<base href="http://repo.or.cz/w" />
+<link rel="stylesheet" type="text/css" href="http://repo.or.cz/gitweb.css"/>
+<link rel="alternate" title="Science-Project.git - history of science/Science_Project.ppt - RSS feed" href="http://repo.or.cz/w/Science-Project.git/rss?f=science/Science_Project.ppt" type="application/rss+xml" />
+<link rel="alternate" title="Science-Project.git - history of science/Science_Project.ppt - RSS feed (no merges)" href="http://repo.or.cz/w/Science-Project.git/rss?f=science/Science_Project.ppt;opt=--no-merges" type="application/rss+xml" />
+<link rel="alternate" title="Science-Project.git - history of science/Science_Project.ppt - Atom feed" href="http://repo.or.cz/w/Science-Project.git/atom?f=science/Science_Project.ppt;opt=--no-merges" type="application/atom+xml" />
+<link rel="alternate" title="Science-Project.git - history of science/Science_Project.ppt - Atom feed (no merges)" href="http://repo.or.cz/w/Science-Project.git/atom?f=science/Science_Project.ppt;opt=--no-merges" type="application/atom+xml" />
+<link rel="shortcut icon" href="http://repo.or.cz/git-favicon.png" type="image/png" />
+<script src="http://repo.or.cz/gitweb.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="page_header">
+<a title="git homepage" href="http://git-scm.com/"><img src="http://repo.or.cz/git-logo.png" width="72" height="27" alt="git" class="logo"/></a><a href="http://repo.or.cz/w">repo.or.cz</a> / <a href="http://repo.or.cz/w/Science-Project.git">Science-Project.git</a> / blobdiff
+</div>
+<form method="get" action="http://repo.or.cz/w/Science-Project.git" enctype="application/x-www-form-urlencoded">
+<div class="search">
+<input name="a" type="hidden" value="search" />
+<input name="h" type="hidden" value="a7584989c2ed974dd95cbe85335bd92b0e2dd5c0" />
+<select name="st" >
+<option selected="selected" value="commit">commit</option>
+<option value="grep">grep</option>
+<option value="author">author</option>
+<option value="committer">committer</option>
+<option value="pickaxe">pickaxe</option>
+</select><sup><a href="http://repo.or.cz/w/Science-Project.git/search_help">?</a></sup> search:
+<input type="text" name="s"  />
+<span title="Extended regular expression"><label><input type="checkbox" name="sr" value="1" />re</label></span></div>
+</form>
+<div class="page_nav">
+<a href="http://repo.or.cz/w/Science-Project.git">summary</a> | <a href="http://repo.or.cz/w/Science-Project.git/shortlog">log</a> | <a href="http://repo.or.cz/git-browser/by-commit.html?r=Science-Project.git">graphiclog</a> | <a href="http://repo.or.cz/w/Science-Project.git/commit/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0">commit</a> | <a href="http://repo.or.cz/w/Science-Project.git/commitdiff/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0">commitdiff</a> | <a href="http://repo.or.cz/w/Science-Project.git/tree/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0">tree</a> | <a href="http://repo.or.cz/editproj.cgi?name=Science-Project.git">edit</a> | <a href="http://repo.or.cz/regproj.cgi?fork=Science-Project.git">fork</a><br/>
+<a href="http://repo.or.cz/w/Science-Project.git/blobdiff_plain/3c6848d00073d35e0b81e0843fca4159320f18fb..a7584989c2ed974dd95cbe85335bd92b0e2dd5c0:/science/Science_Project.ppt">raw</a><br/>
+</div>
+<div class="header">
+<a class="title" href="http://repo.or.cz/w/Science-Project.git/commit/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0">I added the powerpoint.</a>
+</div>
+<div class="page_path"><a title="tree root" href="http://repo.or.cz/w/Science-Project.git/tree/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0">[Science-Project.git]</a> / <a title="science" href="http://repo.or.cz/w/Science-Project.git/tree/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0:/science">science</a> / <a title="science/Science_Project.ppt" href="http://repo.or.cz/w/Science-Project.git/blob_plain/a7584989c2ed974dd95cbe85335bd92b0e2dd5c0:/science/Science_Project.ppt">Science_Project.ppt</a><br/></div>
+<div class="page_body">
+<div class="patchset">
+<div class="patch" id="patch1">
+<div class="diff header">diff --git a/science/Science_Project.ppt <a class="path" href="http://repo.or.cz/w/Science-Project.git/blob/98d4e6308a98f461f8f0ccfdfc6601523eb20ae7:/science/Science_Project.ppt">b/science/Science_Project.ppt</a></div>
+<div class="diff extended_header">
+new file mode 100644<span class="info"> (file)</span><br/>
+index 0000000..<a class="hash" href="http://repo.or.cz/w/Science-Project.git/blob/98d4e6308a98f461f8f0ccfdfc6601523eb20ae7:/science/Science_Project.ppt">98d4e63</a><br/>
+Binary files /dev/null and b/science/Science_Project.ppt differ<br/>
+</div>
+</div>
+</div>
+</div>
+<div class="page_footer">
+<a class="rss_logo" title="history of science/Science_Project.ppt RSS feed" href="http://repo.or.cz/w/Science-Project.git/rss?f=science/Science_Project.ppt">RSS</a>
+<a class="rss_logo" title="history of science/Science_Project.ppt Atom feed" href="http://repo.or.cz/w/Science-Project.git/atom?f=science/Science_Project.ppt">Atom</a>
+</div>
+</body>
+</html>

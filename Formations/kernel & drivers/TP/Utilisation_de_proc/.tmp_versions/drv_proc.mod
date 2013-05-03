@@ -1,0 +1,2 @@
+/home/gayetth/Dropbox/My_Formations/Formation_linux_noyau_drivers/CLEF_USB/TP/Utilisation_de_proc/drv_proc.ko
+/home/gayetth/Dropbox/My_Formations/Formation_linux_noyau_drivers/CLEF_USB/TP/Utilisation_de_proc/drv_proc.o
